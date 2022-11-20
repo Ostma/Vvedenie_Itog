@@ -22,4 +22,4 @@
 
 ### Блок-схема основного модуля
 Блок-схема основного модуля так же загружена и на Github  в соответствии с условием задачи
-![] (//https://github.com/Ostma/Vvedenie_Itog/blob/main/Itogovaya.png)
+![] (https://github.com/Ostma/Vvedenie_Itog/blob/main/Itogovaya.png)
